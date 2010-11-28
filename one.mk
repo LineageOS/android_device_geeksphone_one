@@ -35,7 +35,7 @@ PRODUCT_PACKAGES += \
 TINY_TOOLBOX:=true
 
 # This is the list of locales included in AOSP builds
-PRODUCT_LOCALES := mdpi
+PRODUCT_LOCALES := mdpi ru_RU
 
 # Enable RingerSwitch
 PRODUCT_PROPERTY_OVERRIDES += \
